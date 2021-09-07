@@ -33,6 +33,10 @@ Durante o curso, será realizado mais de 10 aplicativos, tanto para iOS quanto p
 <p align="center">
   <a href="https://github.com/brunomdrrosa/ProjetosFlutter/blob/main/i_am_rich/lib/main.dart"><img src="https://i.imgur.com/Qv9VTvM.png"></a>
 </p>
+<h2 align="center">I Am Poor 💸</h2>
+<p align="center">
+  <a href="https://github.com/brunomdrrosa/ProjetosFlutter/blob/main/i_am_poor/lib/main.dart"><img src="https://i.imgur.com/zRGQ7gt.png"></a>
+</p>
 
 ---
 
